@@ -1,8 +1,9 @@
 # ![logo](http://i.imgur.com/BUofo29.png)
-
+=====================
 # DeathCore 5.4.8 - New Source - Scripts
-
+=====================
 `DeathCore_5.4.8`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_5.4.8.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_5.4.8)
+=====================
 
 ##Informações Gerais do Projeto
 
@@ -17,6 +18,7 @@ Patch 5.4.8 - NDP-DB 5.4.8 (Alpha)
 
 Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando novos scripts e novidades, e se você quiser nos ajudar neste projeto, ficaremos gratos! Toda a ajuda será bem vinda! Atenciosamente, Equipe Noffearr Death ProjecT™.
 
+=====================
 
 ##Arquivos Necessários
 

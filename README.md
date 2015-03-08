@@ -20,13 +20,13 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 ##Arquivos Necessários
 
-[dbc](#)
+[dbc] - Em Breve](*#*)
 
-[maps](#)
+[maps] - Em Breve](*#*)
 
-[mmaps](#)
+[mmaps] - Em Breve](*#*)
 
-[vmaps](#)
+[vmaps] - Em Breve](*#*)
 
 ##Mist Of Pandaria 5.4.8 - Client
  

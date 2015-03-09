@@ -37,8 +37,5 @@ script:
   - make -j16
   
 notifications:
-  irc:
-    channels:
-      - "irc.rizon.net#NoffearrDeathProjecT"
-    on_success: always
-    on_failure: always
+  email:
+    - noffearrdeathproject@gmail.com

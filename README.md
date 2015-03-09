@@ -21,13 +21,11 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 ##Arquivos Necessários
 
-[dbc] - Em Breve](*#*)
+[dbc](https://mega.co.nz/#!i80jkDIY!2ctYKS6QBMJU3zRRv4WBMpUHPpb3XwUmQy_UqswjMik)
 
-[maps] - Em Breve](*#*)
+[maps](https://mega.co.nz/#!ylUWkJpC!uWhX1yVfjCElxMnHl21JHdhbmk5_BF3U7vgDmuelO4c)
 
-[mmaps] - Em Breve](*#*)
-
-[vmaps] - Em Breve](*#*)
+[vmaps](https://mega.co.nz/#!j4MQ3YrC!Vm7HGpPLGWcNUh3oCMZf_zChgVhyKlSqUv9pUmK7Pj8)
 
 ##Mist Of Pandaria 5.4.8 - Client
  
@@ -36,7 +34,7 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 Observações:
 - O DeathCore Client será usado apenas para quem tem o cliente de qualquer versão anterior completa, basta extrai-lo na pasta do mesmo.
 
-[Cliente Completo - Mist Of Pandaria 5.4.8 - Client - Build 18418](#)
+[Cliente Completo - Mist Of Pandaria 5.4.8 - Client - Build 18418](https://wow.freakz.ro/wow/548/wow_freakz_548.torrent)
 
 ##Databases
 
